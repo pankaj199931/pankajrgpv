@@ -2,7 +2,7 @@ body{
      margin:0;
      padding:0;
      background: url(back_page.jpg);
-     background-size: unset;
+     background-size: 100%;
      background-position: unset;
      font-family: sans-serif; 
 
